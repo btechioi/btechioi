@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @btechioi
-- 👀 I’m interested in ArchLinux
-- 🌱 I’m currently learning at elementry school
-- 💞️ I’m looking to collaborate on eacy install Arch
-- 📫 How to reach me banumathhettiarachchi@gmail.com
+# Hi there, I'm Banumath! 👋
 
-<!---
-btechioi/btechioi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! Here's a little about me:
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Python, JavaScript, C++, SQL
+- **Frameworks & Libraries:** Streamlit, Gradio, PySide6, Flask, React
+- **Tools:** Arduino Uno, Git, Docker, VS Code
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## 🌱 Current Projects
+
+- **Voice-Enabled Chatbot:** Integrating Streamlit and Gradio for a voice-powered chatbot application.
+- **Arduino Experiments:** Exploring creative projects with the RP2040.
+- **[Your Other Projects]:** [Description of your other ongoing work.]
+
+## 💡 Interests
+
+- Building interactive UIs.
+- Embedding AI in everyday applications.
+- Automating tasks with Arduino and IoT.
+## 📫 How to Reach Me
+
+- **Email:** banumathhettiarachchi@gmail.com
+- **Portfolio:** btechioi.githuub.io
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+Feel free to check out my repositories and collaborate on exciting projects. Let's build something amazing together! 🚀
+
