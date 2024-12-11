@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 - **Voice-Enabled Chatbot:** Integrating Streamlit and Gradio for a voice-powered chatbot application.
 - **Arduino Experiments:** Exploring creative projects with the RP2040.
-- **[Your Other Projects]:** [Description of your other ongoing work.]
+
 
 ## 💡 Interests
 
