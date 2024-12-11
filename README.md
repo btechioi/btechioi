@@ -27,9 +27,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=btechioi&show_icons=true&theme=radical)
 
 ---
 
 Feel free to check out my repositories and collaborate on exciting projects. Let's build something amazing together! 🚀
-
