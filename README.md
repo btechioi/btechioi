@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=btechioi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=btechioi&show_icons=true&theme=radical)
 
 ---
 
