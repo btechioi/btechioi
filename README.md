@@ -1,34 +1,108 @@
-# Hi there, I'm Banumath! 👋
+<!-- Animated Banner -->
 
-Welcome to my GitHub profile! Here's a little about me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:6a00ff&height=200&section=header&text=Banumath%20%7C%20AI%20Developer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
-## 🔧 Technologies & Tools
+# 👋 Hi there, I'm Banumath
 
-- **Languages:** Python, JavaScript, C++, SQL
-- **Frameworks & Libraries:** Streamlit, Gradio, PySide6, Flask, React
-- **Tools:** Arduino Uno, Git, Docker, VS Code
-- **Databases:** MySQL, PostgreSQL, MongoDB
+💡 AI Developer | IoT Tinkerer | UI Builder
 
-## 🌱 Current Projects
-
-- **Voice-Enabled Chatbot:** Integrating Streamlit and Gradio for a voice-powered chatbot application.
-- **Arduino Experiments:** Exploring creative projects with the RP2040.
-
-
-## 💡 Interests
-
-- Building interactive UIs.
-- Embedding AI in everyday applications.
-- Automating tasks with Arduino and IoT.
-## 📫 How to Reach Me
-
-- **Email:** banumathhettiarachchi@gmail.com
-- **Portfolio:** btechioi.githuub.io
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=btechioi&show_icons=true&theme=radical)
+I enjoy building **interactive AI applications, automation tools, and hardware experiments.**
 
 ---
 
-Feel free to check out my repositories and collaborate on exciting projects. Let's build something amazing together! 🚀
+# 🧠 About Me
+
+* 🤖 Interested in **AI-powered applications**
+* 🎙 Currently building a **Voice Enabled Chatbot**
+* 🔌 Experimenting with **Arduino & IoT**
+* 🎨 Love creating **interactive user interfaces**
+* 🚀 Always learning new technologies
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,sql"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask"/>
+</p>
+
+Streamlit • Gradio • PySide6
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,arduino"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+---
+
+# 🌱 Current Projects
+
+🎙 **Voice Enabled Chatbot**
+AI chatbot with **voice interaction using Streamlit + Gradio**
+
+🔬 **Arduino Experiments**
+Exploring **RP2040 microcontroller projects**
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=btechioi\&show_icons=true\&theme=radical)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=btechioi\&theme=radical)
+
+---
+
+# 💻 Top Languages
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=btechioi\&layout=compact\&theme=radical)
+
+---
+
+# 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=btechioi\&theme=react-dark)
+
+---
+
+# 🏆 Developer Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=btechioi\&theme=radical\&no-frame=true\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=btechioi\&color=blue)
+
+---
+
+# 📫 Contact Me
+
+📧 Email: [banumathhettiarachchi@gmail.com](mailto:banumathhettiarachchi@gmail.com)
+🌐 Blog: https://btechioi.netlify.app
+
+---
+
+⭐ *Feel free to explore my repositories and collaborate on exciting projects!*
