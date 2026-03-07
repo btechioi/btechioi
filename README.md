@@ -1,95 +1,77 @@
-<!-- Animated Banner -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:6a00ff&height=200&section=header&text=Banumath%20%7C%20AI%20Developer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:0055ff&height=200&section=header&text=Banumath%20%7C%20Full-Stack%20Engineer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-# 👋 Hi there, I'm Banumath
+# 🛠️ Hi, I'm Banumath (btechioi)
 
-💡 AI Developer | IoT Tinkerer | UI Builder
+**Hardware Hacker | Cybersecurity Researcher | Astro Developer**
 
-I enjoy building **interactive AI applications, automation tools, and hardware experiments.**
+I build high-performance web experiences, autonomous robotics, and secure systems. I run **Arch Linux** (btw), deploy on **Netlify**, and believe in the power of the **Astro** islands architecture.
 
 ---
 
-# 🧠 About Me
+# 🛸 What I Do
 
-* 🤖 Interested in **AI-powered applications**
-* 🎙 Currently building a **Voice Enabled Chatbot**
-* 🔌 Experimenting with **Arduino & IoT**
-* 🎨 Love creating **interactive user interfaces**
-* 🚀 Always learning new technologies
+* 🚁 **Robotics & Drones:** Designing autonomous flight controllers and RC systems.
+* 🛡️ **Cybersecurity:** Network penetration testing, vulnerability research, and CTFs.
+* 🚀 **Web Performance:** Building ultra-fast, content-driven sites using **Astro**.
+* 🤖 **Applied AI:** Implementing multimodal AI agents for hardware and web automation.
+* 🐧 **System Admin:** Power user workflow within the **Arch/Linux** ecosystem.
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
-
+### OS & Environments
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,sql"/>
+<img src="https://skillicons.dev/icons?i=arch,linux,bash,docker,vscode"/>
 </p>
 
-### Frameworks & Libraries
-
+### Web & UI (The Astro Way)
 <p>
-<img src="https://skillicons.dev/icons?i=react,flask"/>
+<img src="https://skillicons.dev/icons?i=astro,react,tailwind,nodejs,netlify"/>
 </p>
 
-Streamlit • Gradio • PySide6
-
-### Tools
-
+### Hardware & Robotics
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,vscodium,arduino"/>
+<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,ros"/>
 </p>
+**PX4/ArduPilot** • **MicroPython** • **Embedded C**
 
-### Databases
-
+### Security & Logic
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=kali,wireshark,python,fastapi,postgres"/>
 </p>
 
 ---
 
 # 🌱 Current Projects
 
-🎙 **Voice Enabled Chatbot**
-AI chatbot with **voice interaction using Streamlit + Gradio**
+🛸 **Autonomous Drone Fleet**
+Developing custom flight paths and computer vision-based obstacle avoidance using **ROS2**.
 
-🔬 **Arduino Experiments**
-Exploring **RP2040 microcontroller projects**
+🔒 **IoT Security Sandbox**
+Penetration testing lab for smart home devices to identify vulnerabilities in **MQTT protocols**.
 
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=btechioi\&theme=radical)
+🎨 **Astro-Powered Portfolio**
+A lightning-fast, edge-deployed site on **Netlify** showcasing multimodal AI integrations.
 
 ---
 
-# 📈 Contribution Graph
+# 🔥 GitHub Stats
+<p align="left">
+<img src="https://streak-stats.demolab.com/?user=btechioi&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=btechioi\&theme=react-dark)
-
----
-
-# 🏆 Developer Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=btechioi\&color=blue)
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=btechioi&theme=shades-of-purple" alt="Activity Graph" />
+</p>
 
 ---
 
-# 📫 Contact Me
-
-📧 Email: [banumathhettiarachchi@gmail.com](mailto:banumathhettiarachchi@gmail.com)
-🌐 Blog: https://btechioi.netlify.app
+# 📫 Reach Out
+📧 **Email:** [banumathhettiarachchi@gmail.com](mailto:banumathhettiarachchi@gmail.com)
+🌐 **Tech Blog:** [btechioi.netlify.app](https://btechioi.netlify.app)
 
 ---
-
-⭐ *Feel free to explore my repositories and collaborate on exciting projects!*
+⭐ *“Simplicity is the ultimate sophistication.” — Built on Arch.*
