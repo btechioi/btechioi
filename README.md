@@ -41,7 +41,7 @@ Streamlit • Gradio • PySide6
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,arduino"/>
+<img src="https://skillicons.dev/icons?i=git,docker,vscodium,arduino"/>
 </p>
 
 ### Databases
@@ -88,8 +88,7 @@ Exploring **RP2040 microcontroller projects**
 
 # 🏆 Developer Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=btechioi\&theme=radical\&no-frame=true\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 # 👀 Profile Views
