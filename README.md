@@ -62,21 +62,9 @@ Exploring **RP2040 microcontroller projects**
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=btechioi\&show_icons=true\&theme=radical)
-
----
-
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=btechioi\&theme=radical)
-
----
-
-# 💻 Top Languages
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=btechioi\&layout=compact\&theme=radical)
 
 ---
 
