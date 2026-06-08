@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:0055ff&height=200&section=header&text=BTech_IOI%20%7C%20Embedded%20%26%20Drone%20Dev&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e1ff,100:0055ff&amp;height=200&amp;section=header&amp;text=BTech_IOI%20%7C%20Embedded%20%26%20Drone%20Dev&amp;fontSize=40&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff"/>
 </p>
 
 # 🛠️ Hi, I'm BTech_IOI (btechioi)
@@ -30,8 +30,8 @@ I build ESP32 mesh networks, drone flight controllers, and fast Astro sites — 
 ### Embedded & Hardware
 <p>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake"/>
-<img src="https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-ESP--NOW-00A9DE?logo=esphome&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-ESP--NOW-00A9DE?logo=esphome&amp;logoColor=white&amp;style=for-the-badge"/>
 </p>
 
 ### Web & DevOps
@@ -41,7 +41,8 @@ I build ESP32 mesh networks, drone flight controllers, and fast Astro sites — 
 
 ### Tools & Environment
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,neovim"/>
+<img src="https://skillicons.dev/icons?i=neovim,git,github"/>
+<img src="https://img.shields.io/badge/-Zed-084B8A?logo=zedindustries&amp;logoColor=white&amp;style=for-the-badge"/>
 </p>
 
 ---
@@ -67,11 +68,11 @@ NixOS rice with Niri WM — working on migrating, currently on **Arch**.
 
 # 🔥 GitHub Stats
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=btechioi&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=btechioi&amp;theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=btechioi&theme=shades-of-purple" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=btechioi&amp;theme=shades-of-purple" alt="Activity Graph" />
 </p>
 
 ---
