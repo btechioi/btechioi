@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e1ff,100:0055ff&amp;height=200&amp;section=header&amp;text=BTech_IOI%20%7C%20Embedded%20%26amp%3B%20Drone%20Dev&amp;fontSize=40&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e1ff,100:0055ff&amp;height=200&amp;section=header&amp;text=BTech_IOI%20%7C%20Fullstack%20%26amp%3B%20IoT%20%26amp%3B%20Robotics&amp;fontSize=40&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff"/>
 </p>
 
 # 🛠️ Hi, I'm BTech_IOI (btechioi)
 
-**Embedded Systems Engineer | Drone Developer | Astro & Arch Enthusiast**
+**Fullstack Developer | IoT & Robotics | Arch Enthusiast**
 
-I build ESP32 mesh networks, drone flight controllers, and fast Astro sites — all on **Arch Linux** (I use Arch btw). I believe in minimalism, clean design, and mesh networking without infrastructure.
+I build fullstack web apps, IoT mesh networks, and robotics systems — all on **Arch Linux** (I use Arch btw). I believe in minimalism, clean design, and connected things.
 
 ---
 
 # 🛸 What I Do
 
-* 🛰️ **ESP32 Mesh Networking:** Building self-forming/self-healing mesh networks with **ESP-NOW** — no Wi-Fi infra, no IP stack needed.
-* 🚁 **Drone Firmware & Flight Controllers:** Developing autonomous flight controllers from the ground up on **ESP32** and **Raspberry Pi**.
-* 🎨 **Astro-Powered Web:** Building ultra-fast, content-driven sites with **Astro** and **TypeScript**, deployed on **Netlify**.
-* 🤖 **Applied AI & Automation:** Experimenting with multimodal AI agents, real-time voice, and game-playing agents.
+* 🎨 **Fullstack Web:** Building fast, content-driven sites and apps with **Astro**, **TypeScript**, and **Node.js**.
+* 🛰️ **IoT & Mesh Networking:** Self-forming/self-healing mesh networks with **ESP32** and **ESP-NOW** — no Wi-Fi infra, no IP stack needed.
+* 🤖 **Robotics & Flight Controllers:** Developing autonomous systems from the ground up on **ESP32** and **Raspberry Pi**.
+* 🧠 **Applied AI & Automation:** Experimenting with multimodal AI agents, real-time voice, and game-playing agents.
 * 🐧 **Arch Linux Everything:** Dotfiles, WM configs, and system setup — all hand-rolled on **Arch** with **Niri** compositor.
 
 ---
