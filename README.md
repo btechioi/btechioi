@@ -24,24 +24,37 @@ I build ESP32 mesh networks, drone flight controllers, and fast Astro sites — 
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,bash"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&amp;logoColor=white&amp;style=for-the-badge"/>
 </p>
 
 ### Embedded & Hardware
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake"/>
+<img src="https://img.shields.io/badge/-Arduino-00878F?logo=arduino&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-CMake-064F8C?logo=cmake&amp;logoColor=white&amp;style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&amp;logoColor=white&amp;style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-ESP--NOW-00A9DE?logo=esphome&amp;logoColor=white&amp;style=for-the-badge"/>
 </p>
 
 ### Web & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=astro,nodejs,docker,netlify,arch,linux"/>
+<img src="https://img.shields.io/badge/-Astro-BC52EE?logo=astro&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Node.js-5FA04E?logo=nodedotjs&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Linux-222?logo=linux&amp;logoColor=white&amp;style=for-the-badge"/>
 </p>
 
 ### Tools & Environment
 <p>
-<img src="https://skillicons.dev/icons?i=neovim,git,github"/>
+<img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&amp;logoColor=white&amp;style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Zed-084B8A?logo=zedindustries&amp;logoColor=white&amp;style=for-the-badge"/>
 </p>
 
