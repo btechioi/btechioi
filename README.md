@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e1ff,100:0055ff&amp;height=200&amp;section=header&amp;text=BTech_IOI%20%7C%20Embedded%20%26%20Drone%20Dev&amp;fontSize=40&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e1ff,100:0055ff&amp;height=200&amp;section=header&amp;text=BTech_IOI%20%7C%20Embedded%20%26amp%3B%20Drone%20Dev&amp;fontSize=40&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff"/>
 </p>
 
 # 🛠️ Hi, I'm BTech_IOI (btechioi)
