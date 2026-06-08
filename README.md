@@ -1,60 +1,67 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:0055ff&height=200&section=header&text=Banumath%20%7C%20Full-Stack%20Engineer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:0055ff&height=200&section=header&text=BTech_IOI%20%7C%20Embedded%20%26%20Drone%20Dev&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-# 🛠️ Hi, I'm Banumath (btechioi)
+# 🛠️ Hi, I'm BTech_IOI (btechioi)
 
-**Hardware Hacker | Cybersecurity Researcher | Astro Developer**
+**Embedded Systems Engineer | Drone Developer | Astro & Arch Enthusiast**
 
-I build high-performance web experiences, autonomous robotics, and secure systems. I run **Arch Linux** (btw), deploy on **Netlify**, and believe in the power of the **Astro** islands architecture.
+I build ESP32 mesh networks, drone flight controllers, and fast Astro sites — all on **Arch Linux** (I use Arch btw). I believe in minimalism, clean design, and mesh networking without infrastructure.
 
 ---
 
 # 🛸 What I Do
 
-* 🚁 **Robotics & Drones:** Designing autonomous flight controllers and RC systems.
-* 🛡️ **Cybersecurity:** Network penetration testing, vulnerability research, and CTFs.
-* 🚀 **Web Performance:** Building ultra-fast, content-driven sites using **Astro**.
-* 🤖 **Applied AI:** Implementing multimodal AI agents for hardware and web automation.
-* 🐧 **System Admin:** Power user workflow within the **Arch/Linux** ecosystem.
+* 🛰️ **ESP32 Mesh Networking:** Building self-forming/self-healing mesh networks with **ESP-NOW** — no Wi-Fi infra, no IP stack needed.
+* 🚁 **Drone Firmware & Flight Controllers:** Developing autonomous flight controllers from the ground up on **ESP32** and **Raspberry Pi**.
+* 🎨 **Astro-Powered Web:** Building ultra-fast, content-driven sites with **Astro** and **TypeScript**, deployed on **Netlify**.
+* 🤖 **Applied AI & Automation:** Experimenting with multimodal AI agents, real-time voice, and game-playing agents.
+* 🐧 **Arch Linux Everything:** Dotfiles, WM configs, and system setup — all hand-rolled on **Arch** with **Niri** compositor.
 
 ---
 
 # 🚀 Tech Stack
 
-### OS & Environments
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=arch,linux,bash,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,bash"/>
 </p>
 
-### Web & UI (The Astro Way)
+### Embedded & Hardware
 <p>
-<img src="https://skillicons.dev/icons?i=astro,react,tailwind,nodejs,netlify"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake"/>
+<img src="https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-ESP--NOW-00A9DE?logo=esphome&logoColor=white&style=for-the-badge"/>
 </p>
 
-### Hardware & Robotics
+### Web & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,ros"/>
+<img src="https://skillicons.dev/icons?i=astro,nodejs,docker,netlify,arch,linux"/>
 </p>
-**PX4/ArduPilot** • **MicroPython** • **Embedded C**
 
-### Security & Logic
+### Tools & Environment
 <p>
-<img src="https://skillicons.dev/icons?i=kali,wireshark,python,fastapi,postgres"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,neovim"/>
 </p>
 
 ---
 
 # 🌱 Current Projects
 
-🛸 **Autonomous Drone Fleet**
-Developing custom flight paths and computer vision-based obstacle avoidance using **ROS2**.
+🛰️ **[mesh-espnow](https://github.com/btechioi/mesh-espnow)**
+ESP-NOW Mesh Network Library v3 — Intelligent, metric-based self-forming/self-healing mesh for ESP32. No Wi-Fi infrastructure, no IP stack, no ESP-MESH.
 
-🔒 **IoT Security Sandbox**
-Penetration testing lab for smart home devices to identify vulnerabilities in **MQTT protocols**.
+🚁 **[esp-fc](https://github.com/btechioi/esp-fc)**
+Flight controller software for hobbyists — build your own flight controller on ESP32.
 
-🎨 **Astro-Powered Portfolio**
-A lightning-fast, edge-deployed site on **Netlify** showcasing multimodal AI integrations.
+🎨 **[My-Blog](https://github.com/btechioi/My-Blog)**
+Lightning-fast Astro blog deployed on Netlify with TypeScript.
+
+🤖 **[NOVA](https://github.com/btechioi/NOVA)**
+Self-hosted AI companion with realtime voice chat — forked from the AIRI project.
+
+❄️ **[kaku](https://github.com/btechioi/kaku)**
+NixOS rice with Niri WM — working on migrating, currently on **Arch**.
 
 ---
 
