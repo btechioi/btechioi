@@ -4,9 +4,9 @@
 
 # 🛠️ Hi, I'm BTech_IOI (btechioi)
 
-**Fullstack Developer | IoT & Robotics | Arch Enthusiast**
+**Fullstack Developer | IoT & Robotics | NixOS Enthusiast**
 
-I build fullstack web apps, IoT mesh networks, and robotics systems — all on **Arch Linux** (I use Arch btw). I believe in minimalism, clean design, and connected things.
+I build fullstack web apps, IoT mesh networks, and robotics systems — all on **NixOS** (I use NixOS btw). I believe in minimalism, clean design, and connected things.
 
 ---
 
@@ -16,7 +16,7 @@ I build fullstack web apps, IoT mesh networks, and robotics systems — all on *
 * 🛰️ **IoT & Mesh Networking:** Self-forming/self-healing mesh networks with **ESP32** and **ESP-NOW** — no Wi-Fi infra, no IP stack needed.
 * 🤖 **Robotics & Flight Controllers:** Developing autonomous systems from the ground up on **ESP32** and **Raspberry Pi**.
 * 🧠 **Applied AI & Automation:** Experimenting with multimodal AI agents, real-time voice, and game-playing agents.
-* 🐧 **Arch Linux Everything:** Dotfiles, WM configs, and system setup — all hand-rolled on **Arch** with **Niri** compositor.
+* ❄️ **NixOS Everything:** Dotfiles, WM configs, and system setup — all hand-rolled on **NixOS** with **Niri** compositor.
 
 ---
 
@@ -46,7 +46,7 @@ I build fullstack web apps, IoT mesh networks, and robotics systems — all on *
 <img src="https://img.shields.io/badge/-Node.js-5FA04E?logo=nodedotjs&amp;logoColor=white&amp;style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&amp;logoColor=white&amp;style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&amp;logoColor=white&amp;style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&amp;logoColor=white&amp;style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Linux-222?logo=linux&amp;logoColor=white&amp;style=for-the-badge"/>
 </p>
 
@@ -74,8 +74,8 @@ Lightning-fast Astro blog deployed on Netlify with TypeScript.
 🤖 **[NOVA](https://github.com/btechioi/NOVA)**
 Self-hosted AI companion with realtime voice chat — forked from the AIRI project.
 
-❄️ **[kaku](https://github.com/btechioi/kaku)**
-NixOS rice with Niri WM — working on migrating, currently on **Arch**.
+❄️ **[nixos-config](https://github.com/btechioi/nixos-config)**
+NixOS rice with Niri WM — fully migrated to **NixOS**.
 
 ---
 
@@ -95,4 +95,4 @@ NixOS rice with Niri WM — working on migrating, currently on **Arch**.
 🌐 **Tech Blog:** [btechioi.netlify.app](https://btechioi.netlify.app)
 
 ---
-⭐ *“Simplicity is the ultimate sophistication.” — Built on Arch.*
+⭐ *“Simplicity is the ultimate sophistication.” — Built on NixOS.*
